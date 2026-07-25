@@ -48,7 +48,7 @@ export default function Products() {
           </p>
           <div style={{ display: "flex", gap: 14, flexWrap: "wrap", marginTop: 26 }}>
             
-              href="https://inventory-pro.rhyamtechco.com"
+             <a href="https://inventory-pro.rhyamtechco.com"
               target="_blank"
               rel="noopener noreferrer"
               className="cta"
