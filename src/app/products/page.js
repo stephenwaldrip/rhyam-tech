@@ -46,6 +46,17 @@ export default function Products() {
             reconciling stock by hand. It counts, it warns, and it remembers — so
             you can spend your day on the work, not the ledger.
           </p>
+          <div style={{ display: "flex", gap: 14, flexWrap: "wrap", marginTop: 26 }}>
+            
+              href="https://inventory-pro.rhyamtechco.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="cta"
+            >
+              Launch Inventory Manager Pro →
+            </a>
+            <Link href="/contact" className="ghost">Request a walkthrough</Link>
+          </div>
         </div>
       </section>
 
