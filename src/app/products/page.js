@@ -53,7 +53,7 @@ export default function Products() {
               rel="noopener noreferrer"
               className="cta"
             >
-              Launch Inventory Manager Pro →
+              Launch Inventory Manager Pro
             </a>
             <Link href="/contact" className="ghost">Request a walkthrough</Link>
           </div>
