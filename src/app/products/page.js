@@ -46,7 +46,7 @@ export default function Products() {
             reconciling stock by hand. It counts, it warns, and it remembers — so
             you can spend your day on the work, not the ledger.
           </p>
-          <div style={{ display: "flex", gap: 14, flexWrap: "wrap", marginTop: 26 }}>
+          <div style={{ display: "flex", gap: 14, flexWrap: "wrap", marginTop: 26, justifyContent: "center" }}>
             
              <a href="https://inventory-pro.rhyamtechco.com"
               target="_blank"
