@@ -19,7 +19,7 @@ export default function Contact() {
           build, tell us about it.
         </p>
         <div style={{ fontFamily: "var(--mono)", fontSize: 14, color: "var(--mute)", lineHeight: 2 }}>
-          <div><span style={{ color: "var(--amber)" }}>→</span> hello@rhyamtech.co</div>
+          <div><span style={{ color: "var(--amber)" }}>→</span> support@rhyamtech.co</div>
           <div><span style={{ color: "var(--amber)" }}>→</span> Rhyam Tech Co</div>
         </div>
       </div>
